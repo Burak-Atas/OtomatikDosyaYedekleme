@@ -3,7 +3,9 @@
 
 
 
-#Conf.json Dosyasındaki   
+#conf.json     
+
+
 
 **src   : **Çalıştığınız dizinin path bilgisi .   
 **dst   : **Yedeklenecek dizinin path bilgisi    
