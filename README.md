@@ -2,11 +2,13 @@
 
 
 
-
-##conf.json     
-
+      Belli aralıklarla çalıştığınız dizindeki dosyaları yedekleyeyebilrisiniz
 
 
-**src   : ** Çalıştığınız dizinin path bilgisi .   
-**dst   : ** Yedeklenecek dizinin path bilgisi    
-**second: ** Kaç saniyede bir yedeklemek işleminin yapılacağı
+
+
+## conf.json     
+
+** src   : ** Çalıştığınız dizinin path bilgisi .   
+** dst   : ** Yedeklenecek dizinin path bilgisi    
+** second: ** Kaç saniyede bir yedeklemek işleminin yapılacağı
